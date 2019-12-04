@@ -7,6 +7,9 @@ I use [PortfolioVisualizer.com](https://portfoliovisualizer.com) for all my port
 ### Portfolios
 I'll put sample portfolios here.
 
+### Benchmarks
+What is a good benchmark and are they all the same?
+
 #### Public Portfolios
 These are famous portfolios found online.
 1. Here's one
